@@ -18,10 +18,15 @@ data fetched from the query should be visible on the web page in a tabular forma
 Instructions to run the project :
 
 Step 1: Download the project
+
 Step 2: Install the dependencies via composer through the following command
  'composer install'
+
 Step 3: Run migrations and seeds
  'php artisan migrate'
+
 Step 4: Register Yourself to create custom queries
+
 Step 5: Login and the create format 
+
 Step 6: Click on view result to view results of saved queries
